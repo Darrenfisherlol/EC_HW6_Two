@@ -56,11 +56,11 @@
             </br>
         </div>
       <div>
-          </br>
+          
         <p>Name: <input type="text" id="test" value="This is a Get value"></p>
 
-        <button>Show Value</button>
-
+        <button>Submit Name</button>
+        </br>
         <p id="test1">This is a paragraph and it will change!!.</p>
         
       </div>
