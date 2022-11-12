@@ -12,6 +12,9 @@
         <link rel="stylesheet" type="text/css" href="style.css" />
         <title>Darren Fisher HW 6 Ecommerce</title>
 
+        <script src="https://cdn.plot.ly/plotly-2.16.1.min.js"></script>
+        <script src="plotly-2.16.1.min.js"></script>
+
     </head>
     <body>
         <!-- Pages -->

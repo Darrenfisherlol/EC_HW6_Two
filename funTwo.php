@@ -16,6 +16,7 @@
     <body>
         <!-- Pages -->
         <div>
+        <a class="btn btn-primary" href="index.php"  role="button"> Home </a> 
         <a class="btn btn-primary" href="funOne.php"  role="button"> Plotly.js </a> 
         <a class="btn btn-primary" href="funTwo.php"  role="button"> JS bootstrap</a> 
         <a class="btn btn-primary" href="funThree.php"  role="button"> Underscore </a> 
@@ -28,12 +29,16 @@
       <div>
    
               <!-- Large modal -->
-        <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bs-example-modal-lg">Large modal</button>
+        <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bs-example-modal-lg">Large modal for cat!</button>
 
         <div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
           <div class="modal-dialog modal-lg" role="document">
             <div class="modal-content">
-              <p> modal large</p>
+              <p> 
+
+              <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsteamuserimages-a.akamaihd.net%2Fugc%2F791992712493073080%2F9BF5EE311E5ED5B66350C0554262147CF3327D06%2F%3Fimw%3D637%26imh%3D358%26ima%3Dfit%26impolicy%3DLetterbox%26imcolor%3D%2523000000%26letterbox%3Dtrue&f=1&nofb=1&ipt=85923f452565fafb92a81585513618f67dbb5dd4b71e44d2510d1a7c4aaf9677&ipo=images" alt="cool cat">
+
+              </p>
             </div>
           </div>
         </div>
@@ -44,7 +49,10 @@
         <div class="modal fade bs-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel">
           <div class="modal-dialog modal-sm" role="document">
             <div class="modal-content">
-              <p> modal small</p>
+
+            <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.aIEWRPYUZG5IvSeJSWgQyQHaGj%26pid%3DApi&f=1&ipt=dc246ae938aa45c754a14110a88ff186ab2200eb1b483e6b17c4b5171ef08745&ipo=images" alt="cool dog">
+
+
             </div>
           </div>
         </div>

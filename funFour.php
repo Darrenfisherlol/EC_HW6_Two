@@ -25,7 +25,7 @@
           {
             $("button").click(function()
             {
-              alert("Just kiding! that wont change... but Hey " + $("#test").val() + " , nice to meet you!");
+              alert("Just kiding! that won't change... but Hey " + $("#test").val() + " , nice to meet you!");
             });
           });
           </script>
@@ -56,7 +56,7 @@
             </br>
         </div>
       <div>
-          
+          </br>
         <p>Name: <input type="text" id="test" value="This is a Get value"></p>
 
         <button>Show Value</button>
