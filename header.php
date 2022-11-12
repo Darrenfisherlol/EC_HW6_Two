@@ -22,7 +22,7 @@
             <a class="btn btn-primary" href="index.php"  role="button"> Home </a> 
             <a class="btn btn-primary" href="funOne.html"  role="button"> Plotly.js </a> 
             <a class="btn btn-primary" href="funTwo.php"  role="button"> JS bootstrap</a> 
-            <a class="btn btn-primary" href="funThree.php"  role="button"> Underscore </a> 
+            <a class="btn btn-primary" href="funThree.html"  role="button"> D3.js </a> 
             <a class="btn btn-primary" href="funFour.php"  role="button"> jquery </a> 
 
         </div>
