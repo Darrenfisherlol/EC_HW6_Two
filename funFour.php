@@ -25,7 +25,7 @@
           {
             $("button").click(function()
             {
-              alert("Value: " + $("#test").val());
+              alert("Just kiding! that wont change... but Hey " + $("#test").val() + " , nice to meet you!");
             });
           });
           </script>
@@ -47,10 +47,10 @@
         <!-- Pages -->
         <div>
             <a class="btn btn-primary" href="index.php"  role="button"> Home </a> 
-            <a class="btn btn-primary" href="funOne.php"  role="button"> One </a> 
-            <a class="btn btn-primary" href="funTwo.php"  role="button"> Two</a> 
-            <a class="btn btn-primary" href="funThree.php"  role="button"> Three </a> 
-            <a class="btn btn-primary" href="funFour.php"  role="button"> Four </a> 
+            <a class="btn btn-primary" href="funOne.php"  role="button"> Plotly.js </a> 
+            <a class="btn btn-primary" href="funTwo.php"  role="button"> JS bootstrap</a> 
+            <a class="btn btn-primary" href="funThree.php"  role="button"> Underscore </a> 
+            <a class="btn btn-primary" href="funFour.php"  role="button"> jquery </a> 
         </div>
         <div>
             </br>

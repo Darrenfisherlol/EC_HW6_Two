@@ -12,10 +12,10 @@
         Check out:
     </h1>
 
-    <a class="btn btn-primary" href="funOne.php"  role="button"> One </a> 
-    <a class="btn btn-primary" href="funTwo.php"  role="button"> Two</a> 
-    <a class="btn btn-primary" href="funThree.php"  role="button"> Three </a> 
-    <a class="btn btn-primary" href="funFour.php"  role="button"> Four </a> 
+    <a class="btn btn-primary" href="funOne.php"  role="button"> Plotly.js </a> 
+    <a class="btn btn-primary" href="funTwo.php"  role="button"> JS bootstrap</a> 
+    <a class="btn btn-primary" href="funThree.php"  role="button"> Underscore </a> 
+    <a class="btn btn-primary" href="funFour.php"  role="button"> jquery </a> 
 </div>
 
 
